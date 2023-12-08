@@ -53,6 +53,6 @@ IP für Server: 192.168.26.2/24
  - IP/Subnetz und Gateway wurde beim Server auf die bestimmte IP gesetzt (statisch)
  - Ping von PC 1 an Server 0, welcher erfolgreich war.
 
-[image](Server-FE0.png)
-[image](Server-GW0.png)
-[image](Server-WEB.png)
+![image](Server-FE0.png)
+![image](Server-GW0.png)
+![image](Server-WEB.png)
