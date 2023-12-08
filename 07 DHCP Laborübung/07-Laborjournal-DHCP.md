@@ -43,7 +43,7 @@
  ![image](DHCP-Request.jpg)
  ![image](DHCP-ACK.jpg)
  
-##Netzwerk umkonfigurieren
+## Netzwerk umkonfigurieren
  
 IP für Server: 192.168.26.2/24
 
