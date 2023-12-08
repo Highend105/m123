@@ -37,7 +37,7 @@
    - Ja, das DHCP-Relay ist in diesem Netz der Router. Man kann mittels PDU die zugehörige IP erkennen.
  - Welche IPv4-Adresse wird dem Client zugewiesen?
    - 192.168.26.23/24
- - Screenshots:
+ - Screenshots (in DORA-Reihenfolge):
  ![image](DHCP-Discover.png)
  ![image](DHCP-Offer.png)
  ![image](DHCP-Request.jpg)
