@@ -9,11 +9,11 @@
 ## Router Konfiguration
 
  - Für welches Subnetz ist der DHCP Server aktiv? Subnet: 192.168.26.0/24
-   - [image](DHCP-Pool.png)
+   - ![image](DHCP-Pool.png)
  - Welche IP-Adressen ist vergeben und an welche MAC-Adressen? (Antwort als Tabelle)
-   - [image](DHCP-Binding.png)
+   - ![image](DHCP-Binding.png)
  - In welchem Range vergibt der DHCP-Server IPv4 Adressen?
-   - [image](DHCP-Range.png)
+   - ![image](DHCP-Range.png)
  - Was hat die Konfiguration ip dhcp excluded-address zur Folge?
    - Damit können bestimmte IP-Adressen in DHCP Range reserviert werden, so dass sie statisch vergeben werden können.
  - Wie viele IPv4-Adressen kann der DHCP-Server dynamisch vergeben?
@@ -38,10 +38,10 @@
  - Welche IPv4-Adresse wird dem Client zugewiesen?
    - 192.168.26.23/24
  - Screenshots:
- [image](DHCP-Discover.png)
- [image](DHCP-Offer.png)
- [image](DHCP-Request.png)
- [image](DHCP-ACK.png)
+ ![image](DHCP-Discover.png)
+ ![image](DHCP-Offer.png)
+ ![image](DHCP-Request.png)
+ ![image](DHCP-ACK.png)
  
 ##Netzwerk umkonfigurieren
  
