@@ -40,8 +40,8 @@
  - Screenshots:
  ![image](DHCP-Discover.png)
  ![image](DHCP-Offer.png)
- ![image](DHCP-Request.png)
- ![image](DHCP-ACK.png)
+ ![image](DHCP-Request.jpg)
+ ![image](DHCP-ACK.jpg)
  
 ##Netzwerk umkonfigurieren
  
