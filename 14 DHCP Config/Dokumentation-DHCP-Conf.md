@@ -2,7 +2,7 @@
 
  - Datum: 19.01.2024
  - Name: Lukas Grüter
- - [Link zur Aufgabenstellung](https://github.com/Highend105/m123/blob/main/14%20DHCP%20Config/Dokumentation-DHCP-Conf.md)
+ - [Link zur Aufgabenstellung](https://gitlab.com/alptbz/m123/-/blob/main/05_DHCP/DHCP_GNS3/01_DHCP%20Server%20Konfiguration%20Cisco.md?classId=9ba60267-a232-4ef1-8383-77bdea5d9bdf)
 
 ---
 
