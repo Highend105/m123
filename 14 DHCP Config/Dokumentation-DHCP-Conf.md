@@ -36,7 +36,7 @@
 - interface: 0/1
 
 1. Welche IP-Adresse wird dem ersten DHCP-Client vergeben, der einen DHCP request macht?
-Dem Client wird die Adresse 192.168.10.64/24 vergeben, da immer die tiefste Adresse im DHCP-Pool zuerst vergeben wird.
+    - Dem Client wird die Adresse 192.168.10.64/24 vergeben, da immer die tiefste Adresse im DHCP-Pool zuerst vergeben wird.
 
 # DHCP Lease
 
